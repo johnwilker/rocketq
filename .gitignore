@@ -1,13 +1,3 @@
-/vscode
-/node_modules
+.vscode/**
+node_modules/**
 src/db/rocketq.sqlite
-
-# debug
-npm-debug.log*
-.pnpm-debug.log*
-
-# local env files
-.env*.local
-
-#
-.env
